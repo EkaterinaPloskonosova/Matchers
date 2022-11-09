@@ -1,3 +1,3 @@
 # CI Test
 
-[![Build status](https://ci.appveyor.com/api/projects/status/hl03ves38y42528k?svg=true)](https://ci.appveyor.com/project/EkaterinaPloskonosova/funk-clear)
+[![Build status](https://ci.appveyor.com/api/projects/status/50ded6vl03iv8fbo?svg=true)](https://ci.appveyor.com/project/EkaterinaPloskonosova/matchers)
